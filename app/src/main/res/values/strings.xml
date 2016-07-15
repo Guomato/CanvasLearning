@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CanvasLearning</string>
+
+    <string name="show_baseline">base</string>
+    <string name="show_top">top</string>
+    <string name="show_bottom">bottom</string>
+    <string name="show_ascent">ascent</string>
+    <string name="show_descent">descent</string>
+    <string name="show_text">text</string>
+
+    <string name="reset">reset</string>
+</resources>
